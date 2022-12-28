@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Open Source Infrastructure <br>🌱 Learning Python
+🔭 Open Source Infrastructure <br>🐧 Linux FTW <br>🌱 Learning Python, Docker and Devops Culture
 
 
 ## 🌐 Socials:
