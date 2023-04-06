@@ -3,7 +3,7 @@
   <div >
 
 # 💫 About Me:
-🔭 Open Source Infrastructure <br>🐧 Linux FTW <br>🌱 Learning Python, Docker, Kubernetes and Devops Culture
+🔭 Open Source<br>🐧 Linux FTW <br>🌱 Learning Python, Docker, Kubernetes and Devops Culture
 
 ## 🌐 Socials:
 
