@@ -1,7 +1,3 @@
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://app.daily.dev/DanCastroOfc"><img align="right" src="https://api.daily.dev/devcards/33d3d3554e4442f3827ae56f4eb88d29.png?r=9d6" width="250" alt="Daniel Castro's Dev Card"/></a>
-  <div >
-
 # 💫 About Me:
 🔭 Open Source<br>🐧 Linux FTW <br>🌱 Python, Docker, Kubernetes, Zabbix and Devops Culture
 
@@ -18,6 +14,3 @@
 ```bash
 alias cd=’rm -rf’
 ```
-
-  </div>
-</div>
